@@ -1,0 +1,29 @@
+{
+  "name": "backbone-elements",
+  "main": "backbone-elements.js",
+  "version": "1.0.0",
+  "authors": [
+    "Ramesh Nair <ram@hiddentao.com>"
+  ],
+  "description": "Backbone.View shortcut for obtaining child element references",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "backone",
+    "views",
+    "elements",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hiddentao/backbone-elements",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "gulpfile.js",
+    "test.js"
+  ]
+}
