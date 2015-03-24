@@ -14,7 +14,7 @@
   }
   // Browser
   else {
-    factory(root._, root.jQuery, root.Backbone);
+    factory(root._, root.Backbone);
   }
 }(this, function (_, Backbone) {
   "use strict";
