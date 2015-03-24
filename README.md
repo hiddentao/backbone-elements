@@ -2,6 +2,8 @@
 
 [![Build Status](https://secure.travis-ci.org/hiddentao/backbone-elements.png)](http://travis-ci.org/hiddentao/backbone-elements)
 
+**Tested with Backbone 1.1.2**
+
 This library allows you to easily define and use child elements within your Backbone views:
 
 ```coffee
